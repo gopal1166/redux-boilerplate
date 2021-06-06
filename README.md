@@ -1,4 +1,4 @@
-## redux-boilerplate  
+
 
 Files structure:  
 ![redux_setup_structure](https://user-images.githubusercontent.com/29883334/120913128-4e981480-c6b2-11eb-9a1c-92d95361bd6c.PNG)
@@ -99,10 +99,12 @@ function App() {
 }
 
 export default App;
-```
+```  
 
+Using Redux devtools extension for inspection  
 
-
+![Redux_devtool_extension](https://user-images.githubusercontent.com/29883334/120913337-04b02e00-c6b4-11eb-9f4c-d3f4e8cf4166.PNG)
+## redux-boilerplate  
 
 
 
